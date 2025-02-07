@@ -14,15 +14,16 @@ This is an Special Assignment (SA01) under the BEYOND Education program, part of
   
 # Description
 
-Enter the  Description for what this project will achieve here.
-What is the problem?
-What is the motivation?
+Enter a brief Description about what this project will achieve.
+* eventually, this could be a quick summary of the arguments in your README.md
+* what this project will achieve?
 
 # Operation
 
 Describe how to use it.. download, config, running the commands, etc..
-
-(note: if you can make into a Jupyter Notebook add it here along with a 'run on MyBinder' badge)
+* if this is part of a larger framework, describe how to integrated it (SDK, API, etc)
+* if this is something yo have to download and configure to execute, describe how to do it
+* if you can make into a Jupyter Notebook add it here along with a 'run on MyBinder' badge
 
 <!-- WHEN YOU HAVE PUBLISHED SOMETHING RELATED TO THIS PROJECT, REMOVE THE COMMENT AND COMPLETE
 # References
