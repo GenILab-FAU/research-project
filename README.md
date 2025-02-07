@@ -31,3 +31,7 @@ Describe how to use it.. download, config, running the commands, etc..
 
 * [HANDLER](url)
 --->
+
+# Contribution
+
+Find details on how to participate and contribute to this project in [CONTRIBUTING.md](./CONTRIBUTING.md)
