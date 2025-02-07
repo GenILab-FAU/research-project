@@ -3,8 +3,8 @@
 
 ---
 
-# FIRST TIME SETUP -- REMOVE THIS PART
-
+# FIRST TIME SETUP -- REMOVE THIS PART ONCE COMPLETE
+ 
 Once you complete the setup REMOVE THIS PART from- and to- (including) the three-dashes!!
 
 * edit README.md below:
