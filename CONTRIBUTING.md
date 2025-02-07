@@ -11,8 +11,6 @@ Please discuss your idea with the author via issues, email, or discussion before
 
 All contributors must follow our **Code of Conduct** to maintain a respectful and productive environment.
 
----
-
 ## How to Contribute
 
 1. **Discuss First:** Share your proposed change to ensure alignment with project goals.
@@ -21,7 +19,6 @@ All contributors must follow our **Code of Conduct** to maintain a respectful an
 4. **Test and Explain:** Ensure your contribution works as intended and, if applicable, include comments or notes for others to understand its purpose.
 5. **Pull Request:** Submit your PR and request feedback from two reviewers. The maintainer will merge it once approved.
 
----
 
 ## Code of Conduct
 
@@ -33,6 +30,5 @@ We are committed to fostering an inclusive, harassment-free environment. By cont
 
 **Unacceptable behavior** includes harassment, personal attacks, and sharing private information without permission.
 
----
 
 Let’s collaborate, learn, and innovate together! 
