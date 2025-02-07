@@ -3,9 +3,9 @@
 
 ---
 
-# FIRST TIME SETUP -- REMOVE THIS PART ONCE COMPLETE
+# FIRST TIME SETUP -- REMOVE THIS PART ONCE COMPLETED
  
-Once you complete the setup REMOVE THIS PART from- and to- (including) the three-dashes!!
+Once you complete the setup REMOVE THIS PART from- and to- (and including) the three-dashes!!
 
 * edit README.md below:
   * enter TITLE
