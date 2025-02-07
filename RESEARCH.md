@@ -2,15 +2,14 @@
 
 # {title of your research project}
 
-{1-liner description of your project}
+{repeat from RADME.md .. 1-liner description of your project}
 
 <!-- WHEN APPLICABLE, REMOVE THE COMMENT MARK AND COMPLETE
 This is an Special Assignment (SA01) under the BEYOND Education program, part of [The Generative Intelligence LAB@FAU](https://github.com/GenILab-FAU)
 -->
 
-* Student: [YOUR NAME](http://www.YOURPAGE.xxx)
-* Teacher: [Dr. Fernando Koch](http://www.fernandokoch.me)
-* [Research Plan](./RESEARCH.md)
+* Authors: {repeat from RADME.md}
+* Academic Supervisor: [Dr. Fernando Koch](http://www.fernandokoch.me)
 
   
 # Research Question 
