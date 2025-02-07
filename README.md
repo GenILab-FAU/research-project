@@ -38,9 +38,9 @@ This is an Special Assignment (SA01) under the BEYOND Education program, part of
 # Description
 
 Enter a brief Description about what this project will achieve.
-* eventually, this could be a quick summary of the arguments in your README.md
-* what this project will achieve?
-
+* what will this project achieve?
+* quick summary of the arguments from the [Research Plan](./RESEARCH.md)
+  
 # Operation
 
 Describe how to use it.. download, config, running the commands, etc..
