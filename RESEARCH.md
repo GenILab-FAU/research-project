@@ -30,7 +30,7 @@ This is an Special Assignment (SA01) under the BEYOND Education program, part of
 <!-- Free-format; use the topics that are applicable to your exploration  -->
 
 * we employ {some technique}
-* we building {something}
+* we are building {something}
 * we are exploring {some idea or technology}
 
 #### Implications for practice
