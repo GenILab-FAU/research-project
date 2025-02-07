@@ -4,7 +4,9 @@
 
 {1-liner description of your project}
 
+<!-- WHEN APPLICABLE, REMOVE THE COMMENT MARK AND COMPLETE
 This is an Special Assignment (SA01) under the BEYOND Education program, part of [The Generative Intelligence LAB@FAU](https://github.com/GenILab-FAU)
+-->
 
 * Student: [YOUR NAME](http://www.YOURPAGE.xxx)
 * Teacher: [Dr. Fernando Koch](http://www.fernandokoch.me)
@@ -22,4 +24,8 @@ Describe how to use it.. download, config, running the commands, etc..
 
 (note: if you can make into a Jupyter Notebook add it here along with a 'run on MyBinder' badge)
 
+<!-- WHEN YOU HAVE PUBLISHED SOMETHING RELATED TO THIS PROJECT, REMOVE THE COMMENT AND COMPLETE
+# References
 
+* [HANDLER](url)
+--->
