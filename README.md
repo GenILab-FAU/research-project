@@ -46,7 +46,7 @@ Enter a brief Description about what this project will achieve.
 Describe how to use it.. download, config, running the commands, etc..
 * if this is part of a larger framework, describe how to integrated it (SDK, API, etc)
 * if this is something yo have to download and configure to execute, describe how to do it
-* if you can make into a Jupyter Notebook add it here along with a 'run on MyBinder' badge
+* if you can make into a Jupyter Notebook add the LINK to access it here along with a 'run on MyBinder' badge
 
 
 <!-- WHEN YOU HAVE PUBLISHED SOMETHING RELATED TO THIS PROJECT, REMOVE THE COMMENT AND COMPLETE
