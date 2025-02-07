@@ -19,7 +19,7 @@ Once you complete the setup REMOVE THIS PART from- and to- (including) the three
   * enter your name (copy from below)
   * complete Research Question and Arguments (self-explanatory in that document)
  
-* edit or remote [CONTRIBUTING.md](./CONTRIBUTING.md)
+* edit or remove [CONTRIBUTING.md](./CONTRIBUTING.md)
  * enter TITLE      
 ---
 
