@@ -3,9 +3,10 @@
 
 ---
 
-# SETUP
+# FIRST TIME SETUP -- REMOVE THIS PART
 
 Once you complete the setup REMOVE THIS PART from- and to- (including) the three-dashes!!
+
 * edit README.md below:
   * enter TITLE
   * provide the 1-liner
