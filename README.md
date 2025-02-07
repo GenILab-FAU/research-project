@@ -8,7 +8,7 @@
 This is an Special Assignment (SA01) under the BEYOND Education program, part of [The Generative Intelligence LAB@FAU](https://github.com/GenILab-FAU)
 -->
 
-* Student: [YOUR NAME](http://www.YOURPAGE.xxx)
+* Student(s): [NAME1](http://www.YOURPAGE.xxx), [NAME2](http://www.YOURPAGE.xxx), ..., [NAME_n](http://www.YOURPAGE.xxx)
 * Teacher: [Dr. Fernando Koch](http://www.fernandokoch.me)
 * [Research Plan](./RESEARCH.md)
   
