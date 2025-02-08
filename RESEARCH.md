@@ -20,8 +20,9 @@ This is an Special Assignment (SA01) under the BEYOND Education program, part of
 
 #### What is already known about this topic
 
-* the challenges of {something}
-* the possibility of {something}
+* you could do {something} to achieve {some result}
+* the challenges of {doing something}
+* the possibility of {doing something else}
 * ...
 
 #### What this research is exploring
@@ -46,4 +47,15 @@ This is an Special Assignment (SA01) under the BEYOND Education program, part of
 # Research Method
 
 Describe how you are building this research process.
+
+
+<!-- WHEN APPLICABLE AND AVAILABLE -->
+
+# Results
+
+Describe the results achieved through your research process.
+
+# Further research
+
+Describe what we could do next and propose new ideas for further research.
 
