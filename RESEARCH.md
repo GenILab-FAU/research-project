@@ -21,7 +21,7 @@ This is an Special Assignment (SA01) under the BEYOND Education program, part of
 #### What is already known about this topic
 
 * the challenges of {something}
-* the possiblity of {something}
+* the possibility of {something}
 * ...
 
 #### What this research is exploring
@@ -38,7 +38,7 @@ This is an Special Assignment (SA01) under the BEYOND Education program, part of
 
 * we will better understand {some phenomena}
 * we will curate a dataset of relevant research data on {topic}
-* we will be ale to analyse {some phenomena}
+* we will be ale to analyze {some phenomena}
 * it will be easier to {do something}
 * it will optimize {some process}
 * ...
