@@ -1,4 +1,4 @@
-![GenI-banner](https://github.com/GenILab-FAU/GenILab-FAU.github.io/blob/ba6e5e07f4669d4de7342c401971ff65c331b4f4/images/geni-lab-banner.png)
+![GenI-banner](https://github.com/GenILab-FAU/GenILab-FAU.github.io/blob/ba6e5e07f4669d4de7342c401971ff65c331b4f4/images/geni-lab-banner.png?raw=true)
 
 
 ---
